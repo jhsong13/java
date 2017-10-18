@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("XXXXXX");
 		System.out.println("REMOTE-YYYYYY");
 		System.out.println("REMOTE2-XXXXX");
+		System.out.println("REMOTE3-XXXXX");
+
 
 
 	}
