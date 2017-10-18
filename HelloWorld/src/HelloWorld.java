@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello worl hotfix version");
 		System.out.println("XXXXXX");
 		System.out.println("REMOTE-YYYYYY");
+		System.out.println("REMOTE2-XXXXX");
 
 
 	}
