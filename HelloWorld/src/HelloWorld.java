@@ -5,8 +5,9 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		System.out.println("Hello worl hotfix version");
-		System.out.println("YYYYYY");
 		System.out.println("XXXXXX");
+		System.out.println("REMOTE-YYYYYY");
+
 
 	}
 
